@@ -28,5 +28,12 @@ Yes. Remember how I said you can use LibCringe/SDS strings just like normal in r
 # That's interesting. How do I install LibCringe?
 Clone the repo, 'make', 'make install' and you're done. Easy, huh?
 
+# Dependencies
+* GNU Make (or compatible)
+* C compiler - preferably Clang or GCC
+
+# What about documentation?
+The documentation is in the header file itself. See "cringe.h" for information on what do specific functions do and how you can use them.
+
 # Licensing
 LibCringe is dual-licensed under GPLv2 and GPLv3. You're free to use LibCringe in projects licensed under at least one of these licenses. See the files "LICENSE", "LICENSE.GPL2" and "LICENSE.GPL3".
